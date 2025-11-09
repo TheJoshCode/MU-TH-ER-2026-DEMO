@@ -1,0 +1,1 @@
+pyinstaller --console --onedir startmutherbrain.py --add-data "mutherbrain;mutherbrain" --add-data "muthergame;muthergame"
